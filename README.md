@@ -16,5 +16,11 @@ Note App
 
 # video description
 
+![demo](
 
+https://user-images.githubusercontent.com/82304131/176613916-7a86038d-01a7-4659-9a7a-f7c20d5eb21e.mp4
+
+)
+
+# Video URL
 https://drive.google.com/file/d/1RpfPJBaiOe6op5b67FSf0IUzBa81hl8_/view?usp=sharing
